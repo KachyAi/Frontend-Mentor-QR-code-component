@@ -1,0 +1,50 @@
+body {
+  font-family: "poppins";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+  overflow: hidden;
+}
+
+.container {
+  background-color: #fff;
+  padding: 1em;
+  border-radius: 10px;
+  /* width: 250px; */
+}
+
+.img > img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+h3 {
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  font-size: 13px;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin: 1em;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 375px) {
+  .img > img {
+    width: 250px;
+    height: 250px;
+  }
+}
