@@ -47,7 +47,6 @@ justify-content: center; align-items: center; flex-direction: column; height:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@KachyAi](https://www.frontendmentor.io/profile/KachyAi)
 - Twitter - [@KachyAi](https://twitter.com/KachyAi)
 
